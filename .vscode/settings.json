@@ -1,0 +1,27 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "inClass",
+            "database": "inClass",
+            "password": "Devops",
+            "username": "root"
+        },
+        {
+            "previewLimit": 50,
+            "server": "35.202.86.236",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "username": "alex",
+            "password": "alex",
+            "name": "WeFit",
+            "database": "test"
+        }
+    ]
+}
